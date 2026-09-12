@@ -1,0 +1,74 @@
+{
+  "tickets": [
+    {
+      "ticket_id": "T-1001",
+      "subject": "Overcharged on my subscription renewal",
+      "body": "I was charged twice for my monthly subscription. Please issue a refund for the duplicate charge as soon as possible.",
+      "customer": "jane.doe@email.com",
+      "created_at": "2026-09-01T09:15:00"
+    },
+    {
+      "ticket_id": "T-1002",
+      "subject": "Allergic reaction after using product",
+      "body": "This is urgent - I had an allergic reaction after trying your honey spoon product. I need to know the full ingredient list immediately, this is a safety issue.",
+      "customer": "mkim@email.com",
+      "created_at": "2026-09-01T10:02:00"
+    },
+    {
+      "ticket_id": "T-1003",
+      "subject": "Package never arrived",
+      "body": "My order shows delivered but I never received the package. Tracking says it was left at my door 5 days ago. Very frustrating, this is the third time this has happened.",
+      "customer": "r.thomas@email.com",
+      "created_at": "2026-09-02T14:30:00"
+    },
+    {
+      "ticket_id": "T-1004",
+      "subject": "App keeps crashing on login",
+      "body": "Every time I try to log into the mobile app it crashes immediately. I've tried reinstalling and it's still not working.",
+      "customer": "priya.s@email.com",
+      "created_at": "2026-09-02T16:45:00"
+    },
+    {
+      "ticket_id": "T-1005",
+      "subject": "Jar arrived broken",
+      "body": "The superfood powder jar arrived completely shattered, powder everywhere in the box. Really disappointed with the packaging.",
+      "customer": "alex.w@email.com",
+      "created_at": "2026-09-03T08:20:00"
+    },
+    {
+      "ticket_id": "T-1006",
+      "subject": "How do I cancel my account?",
+      "body": "I'd like to cancel my account and delete my data. Please let me know the steps.",
+      "customer": "n.patel@email.com",
+      "created_at": "2026-09-03T11:00:00"
+    },
+    {
+      "ticket_id": "T-1007",
+      "subject": "Question about ingredients",
+      "body": "Hi, just wondering if the moringa powder is organic certified? Thanks!",
+      "customer": "sam.lee@email.com",
+      "created_at": "2026-09-04T09:30:00"
+    },
+    {
+      "ticket_id": "T-1008",
+      "subject": "Invoice missing from my order",
+      "body": "I need a receipt/invoice for my last purchase for expense reporting. Could not find it in my account.",
+      "customer": "d.brooks@email.com",
+      "created_at": "2026-09-04T13:15:00"
+    },
+    {
+      "ticket_id": "T-1009",
+      "subject": "Product tastes off, might be expired",
+      "body": "The honey spoon I received tastes strange, almost spoiled. Checked and there's no expiration date printed anywhere.",
+      "customer": "t.nguyen@email.com",
+      "created_at": "2026-09-05T10:10:00"
+    },
+    {
+      "ticket_id": "T-1010",
+      "subject": "Website 404 error at checkout",
+      "body": "Getting a 404 error every time I try to complete checkout on the website. Please fix, still not working after multiple attempts.",
+      "customer": "c.martinez@email.com",
+      "created_at": "2026-09-05T15:40:00"
+    }
+  ]
+}

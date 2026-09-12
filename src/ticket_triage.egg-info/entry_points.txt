@@ -1,0 +1,2 @@
+[console_scripts]
+ticket-triage = ticket_triage.cli:main
